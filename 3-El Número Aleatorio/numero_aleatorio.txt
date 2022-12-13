@@ -1,0 +1,1 @@
+En este desafío vamos a crear una función, la cual recibe como parámetros dos números y, utilizando el objeto Math, vamos a calcular un número aleatorio que se encuentre dentro del rango de ambos números y la función deberá retornar el valor de dicha operación.
