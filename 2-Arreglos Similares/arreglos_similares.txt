@@ -1,0 +1,4 @@
+En este desafío vamos a escribir una función, la cual determinará si dos arreglos que se pasan como parámetros son similares. 
+Para implementar esta funcionalidad debemos recorrer cada arreglo paralelamente y comparar cada uno de sus elementos por índice de arreglo y determinar si los elementos son iguales o no. 
+En el momento en que se encuentre que un elemento no es similar al otro, la comparación deberá detenerse y la función deberá retornar un valor de false, indicando que los arreglos no son iguales. 
+En caso de que todos los elementos en ambos arreglos sean iguales, la función retornará un valor de true para indicar que sí son similares.
