@@ -1,0 +1,6 @@
+En este desafío vamos a escribir una función que determina si un número es primo o no. 
+Si el número es primo, la función retornará un valor booleano de true. 
+Y si el número no es primo, el valor retornado será false. 
+
+Recordemos que un número primo es un número mayor a 1 que tiene únicamente dos divisores positivos distintos, el mismo y el número 1. 
+Cabe recalcar que el número 1, por convenio, no se considera un número primo, por lo que si el valor que se pasa a la función es igual o menor a 1, la función debe retornar false.
