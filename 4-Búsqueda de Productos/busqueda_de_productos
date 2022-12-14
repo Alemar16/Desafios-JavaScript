@@ -1,0 +1,5 @@
+ En este desafío vamos a crear varios objetos para guardar la información de una lista de productos. 
+ Las informaciones que vamos a registrar de cada producto son ID, nombre del producto, marca y fecha de expiración. 
+ Esta lista de productos va a vivir dentro de un arreglo que va a contener todos los objetos. 
+ Vamos a escribir el código para buscar productos basados en el parámetro que pasemos en la función de búsqueda. 
+ Empezaremos intentando buscar un producto por su ID, luego intentaremos buscar un producto por su fecha de expiración
