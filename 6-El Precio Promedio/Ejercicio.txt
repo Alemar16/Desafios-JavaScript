@@ -1,0 +1,5 @@
+En este desafío se nos va a presentar una lista de varios objetos, los cuales contienen información sobre casas que están en venta. 
+Cada objeto contiene un ID para identificar la casa, el número de habitaciones, tamaño en metros cuadrados, la localidad y el precio de venta. 
+El objetivo de este desafío es determinar el precio promedio de venta por localidad. 
+Para determinar el precio promedio de venta primero debemos sumar todos los precios de casas que se encuentran en una misma localidad y luego dividir cada valor por el número de casas en cada localidad. 
+Para resolver este desafío no solamente tendremos que recorrer el arreglo que contiene los objetos, sino que también tendremos que crear nuestros propios objetos para almacenar los valores que iremos acumulando conforme vamos recorriendo el arreglo de objetos.
