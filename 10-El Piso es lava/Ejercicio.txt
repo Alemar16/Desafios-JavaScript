@@ -1,0 +1,8 @@
+El piso es lava
+Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
+JavaScript incluye varios eventos que nos permiten rastrear la actividad del puntero del mouse en la página web y cómo este interactúa con otros elementos en el DOM. 
+En este desafío se nos presentará una página web, la cual contiene una serie de elementos que están colocados aleatoriamente a lo largo de la pantalla. 
+El objetivo de este desafío es indicar al usuario si el puntero se está quemando o no. 
+Cuando el puntero esté colocado en alguno de los elementos en la página, se mostrará un mensaje al usuario indicando que el puntero está a salvo. 
+Pero si el puntero está colocado en el fondo de la pantalla, esto significa que se está quemando. 
+El mensaje deberá ser mostrado al usuario refrescado cada vez que el puntero se mueva por la pantalla.
