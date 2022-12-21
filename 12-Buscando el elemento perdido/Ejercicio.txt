@@ -1,0 +1,11 @@
+Buscando el elemento perdido
+
+En programación, la recursión es el método de resolver un problema al resolver instancias más pequeñas del mismo problema. 
+
+La recursión generalmente se implementa al crear una función que se llama a sí misma y la secuencia se detiene en el momento en que el resultado se encuentre o se haya llegado al límite de las posibilidades.
+
+ Para este desafío se nos presentará una página web que contiene varios elementos HTML los cuales cada uno tiene elementos anidados. 
+
+ El objetivo de este desafío es hacer una función y utilizar la técnica de recursión para buscar un elemento en específico dentro del DOM. 
+ 
+ Tú podrás escoger el elemento que la función deberá buscar, lo importante de este desafío es la aplicación de la recursión para validar cada uno de los elementos de la página y sus elementos anidados y así encontrar el elemento buscado. 
