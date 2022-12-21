@@ -1,0 +1,11 @@
+Validación de número de teléfono
+
+Una expresión regular es una serie de caracteres que podemos utilizar para determinar el patrón de un String.
+
+Las expresiones regulares son sumamente utilizadas para validar los valores que un usuario agrega en un formulario. 
+
+En este desafío vamos a escribir una expresión regular que deberá validar el formato de un número de teléfono. 
+
+Le presentaremos al usuario un campo de texto donde él o ella podrá escribir el número de teléfono y luego la aplicación deberá mostrar si el número de teléfono es válido o no. 
+
+El formato que utilizaremos será el de cuatro números seguido por un guion, dos números más seguido por un guion y finalmente dos números más. 
