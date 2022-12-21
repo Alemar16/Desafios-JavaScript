@@ -1,0 +1,8 @@
+Carrito de compras
+Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
+En JavaScript, las clases son plantillas de objetos que almacenan información y métodos que trabajan sobre dicha información. 
+Las clases están construidas sobre prototipos. Es por esta razón que se dice que las clases en JavaScript son simplemente una manera bonita de escribir clases y herencias basados en prototipos, ya que ellas son más claras de entender. 
+En este desafío vamos a escribir una clase en JavaScript, la cual almacenará información sobre productos de supermercado como nombre de producto, fecha de vencimiento y precio de compra. Luego vamos a crear una función que sirve como carrito de compra. 
+Esta función deberá recibir como parámetro una lista de productos que son instancias de la clase que vamos a crear. 
+Esta función deberá calcular el precio de compra de la lista de productos. 
+La función también deberá evaluar que ningún producto haya pasado su fecha de vencimiento.
