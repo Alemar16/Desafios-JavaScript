@@ -1,0 +1,7 @@
+El scroll infinito
+
+
+Es muy común en algunos sitios web al hacer scroll en la página que más elementos se carguen. 
+Esto se llama scroll infinito, ya que los elementos se van agregando a la página conforme el usuario va moviendo el scroll al fondo de la misma. 
+
+En este desafío vamos a crear un scroll infinito donde vamos a utilizar el evento scroll de la página para así poder detectar cuando los usuarios se hayan movido al extremo del contenido y, cuando esto suceda, vamos a agregar más elementos para así simular la carga dinámicamente. 
