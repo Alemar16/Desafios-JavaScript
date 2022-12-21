@@ -1,0 +1,12 @@
+Una calculadora
+
+Si seleccionas líneas de la transcripción en esta sección, irás a la marca de tiempo en el vídeo
+Los elementos en una página web son representados por el Document Object Model o DOM, que es una interfaz de programación para documentos web. 
+
+JavaScript nos permite crear aplicaciones web interactivas, ya que este incluye funciones que nos permiten acceder y manipular los objetos que se encuentran en el DOM. 
+
+Este desafío nos presenta un formulario en HTML que incluye un campo de texto de tipo número y cuatro botones que ejecutan cada uno una operación matemática diferente de suma, resta, multiplicación y división.
+
+El objetivo de este desafío es crear una funcionalidad para convertir este formulario en una calculadora.
+
+La calculadora funcionará como una calculadora normal donde el resultado de la operación anterior será el valor de inicio de la operación siguiente y el resultado deberá mostrarse en pantalla al usuario.
