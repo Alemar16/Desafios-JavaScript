@@ -1,0 +1,5 @@
+El marcador de texto
+
+
+En este desafío vamos a simular un editor de texto donde se le presentará al usuario un texto en pantalla y un input donde el usuario podrá escribir el texto que quiera marcar en negrita. 
+Para completar este desafío, no solo tendremos que utilizar los eventos de input para detectar cuando los usuarios han escrito el texto que quieran marcar, sino que también deberemos utilizar funciones para buscar el texto en el párrafo y, utilizando métodos en JavaScript, seleccionaremos el texto deseado y actualizaremos la vista en pantalla.
