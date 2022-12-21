@@ -1,0 +1,13 @@
+El juego del bingo
+
+Las matrices son estructuras de datos compuestas de filas y columnas que se utilizan en muchos tipos de cálculos matemáticos y representación de datos. 
+
+En JavaScript, para poder crear una matriz debemos tener un arreglo el cual cada uno de sus elementos será otro arreglo. 
+
+Cada arreglo hijo representa una fila de datos y los elementos en cada arreglo serán las columnas de la matriz. 
+
+En este desafío se nos presentará una matriz cuadrada. Esto significa que el número de filas y de columnas es el mismo, lo que representa el tablero de un bingo. 
+
+El objetivo del desafío es comprobar que el usuario ha ganado el bingo al determinar si la matriz tiene una fila o una columna donde todos los elementos son iguales. 
+
+En caso de que el usuario haya ganado el bingo, la aplicación deberá imprimir un mensaje para indicarle al usuario que ha ganado un premio. En caso contrario, también se le mostrará un mensaje a la consola.
